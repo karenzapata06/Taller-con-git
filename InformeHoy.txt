@@ -2,3 +2,5 @@ en el día de hoy los temas tratados son:
 actualmente iniciamos con python
 
 ES UN SISTEMA DE CONTROL DE VERSIONES
+
+Ramas, como ignorar archivos para no ser comprometidos en el àrea de trabajo
