@@ -1,0 +1,2 @@
+lo visto en la clase anterior fue:
+utilización de git

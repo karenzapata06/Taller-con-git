@@ -1,0 +1,2 @@
+git es muy útil para trabajar en desarrollo de software
+y python es el mejor lenguaje
